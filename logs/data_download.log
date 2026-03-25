@@ -1,0 +1,12 @@
+2026-03-25 15:47:22,970 - INFO - Trying Yahoo Finance (attempt 1/3)
+2026-03-25 15:47:23,327 - INFO - Downloaded data from Yahoo Finance
+2026-03-25 15:47:23,331 - INFO - Data cleaning complete
+2026-03-25 15:47:23,335 - INFO - Feature engineering complete
+2026-03-25 15:47:23,418 - INFO - Saved 2804 rows to spy_market_data.parquet
+2026-03-25 15:47:23,424 - INFO - Script completed successfully
+2026-03-25 15:50:19,471 - INFO - Trying Yahoo Finance (attempt 1/3)
+2026-03-25 15:50:19,964 - INFO - Downloaded data from Yahoo Finance
+2026-03-25 15:50:19,968 - INFO - Data cleaning complete
+2026-03-25 15:50:19,972 - INFO - Feature engineering complete. Rows: 2803
+2026-03-25 15:50:20,052 - INFO - Saved 2803 rows to Data/spy_market_data.parquet
+2026-03-25 15:50:20,057 - INFO - Script completed successfully

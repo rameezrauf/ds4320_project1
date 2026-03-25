@@ -1,0 +1,7 @@
+2026-03-25 15:50:33,321 - INFO - Loading data from Data/spy_market_data.parquet
+2026-03-25 15:50:33,427 - INFO - Input validation passed
+2026-03-25 15:50:33,430 - INFO - Date processing complete
+2026-03-25 15:50:33,437 - INFO - Feature engineering complete
+2026-03-25 15:50:33,440 - INFO - Data cleaned. Final row count: 2754
+2026-03-25 15:50:33,455 - INFO - Saved dataset to Data/spy_features.parquet
+2026-03-25 15:50:33,470 - INFO - Feature engineering script completed successfully
