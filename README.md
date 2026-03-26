@@ -4,10 +4,15 @@
 
 Rameez Rauf
 xqd7aq
+
 DOI
-Press release link
+
+[Link to Press Release](https://github.com/rameezrauf/ds4320_project1/blob/main/Docuements/press_release.md)
+
 [Data](https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD)
+
 Pipeline files link
+
 License 
 
 ## Problem Definition 
@@ -30,7 +35,7 @@ Financial markets generate enormous amounts of publicly available data, making t
 
 **Press release** 
 
-Link to seperate markdownfile contain press release
+[Link to Press Release](https://github.com/rameezrauf/ds4320_project1/blob/main/Docuements/press_release.md)
 
 ## Domain Exposition
 
@@ -50,17 +55,17 @@ Link to seperate markdownfile contain press release
 | Market efficiency | The idea that asset prices reflect all available information, making prediction difficult |
 
 **Background readings**
+
 [Link to OneDrive Folder with readings](https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgCJNvNvYyOPR6IJ-EdxRcdeAb5kZyM_DypnSBBv8K_-2bI?e=0xRSfw)
 
 **Reading Summary Table** 
 
-TODO fix from homework
 | Title | Description | Link |
 | --- | --- | --- |
 | Efficient Capital Markets | Foundational paper explaining the efficient market hypothesis and challenges of predicting stock prices |https://www.jstor.org/stable/2325486 |
 |Technical Analysis Basics | Overview of common indicators used by traders such as moving averages and price trends | https://www.investopedia.com/terms/t/technicalanalysis.asp |
 | Machine Learning for Trading | Explains how machine learning techniques can be applied to financial market prediction | https://github.com/stefan-jansen/machine-learning-for-trading |
-| Yahoo Finance Market Data | Source of historical stock price data widely used for financial analysis | https://finance.yahoo.com/ |
+|  Understanding Moving Averages (Investopedia) | Provides intuition behind features like moving averages that are used in this project. | https://www.investopedia.com/terms/m/movingaverage.asp|
 | Alpha Vantage API Documentation | Documentation for retrieving financial market data through an API | https://www.alphavantage.co/documentation/ |
 
 ## Data Creation 
