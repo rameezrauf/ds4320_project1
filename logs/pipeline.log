@@ -1,0 +1,65 @@
+2026-03-28 13:28:50,614 - INFO - All required parquet files were found.
+2026-03-28 13:28:50,695 - INFO - Connected to DuckDB at /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/project.duckdb
+2026-03-28 13:28:50,710 - INFO - Loaded table prices from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/prices.parquet
+2026-03-28 13:28:50,713 - INFO - Loaded table returns from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/returns.parquet
+2026-03-28 13:28:50,718 - INFO - Loaded table technical_indicators from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/technical_indicators.parquet
+2026-03-28 13:28:50,721 - INFO - Loaded table targets from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/targets.parquet
+2026-03-28 13:28:50,744 - INFO - Join query successful. Output shape: (2754, 35)
+2026-03-28 13:29:55,469 - INFO - All required parquet files were found.
+2026-03-28 13:29:55,471 - INFO - Connected to DuckDB at /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/project.duckdb
+2026-03-28 13:29:55,478 - INFO - Loaded table prices from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/prices.parquet
+2026-03-28 13:29:55,482 - INFO - Loaded table returns from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/returns.parquet
+2026-03-28 13:29:55,489 - INFO - Loaded table technical_indicators from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/technical_indicators.parquet
+2026-03-28 13:29:55,492 - INFO - Loaded table targets from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/targets.parquet
+2026-03-28 13:29:55,503 - INFO - Join query successful. Output shape: (2754, 35)
+2026-03-28 13:37:18,176 - INFO - Input dataframe received with shape (2754, 35)
+2026-03-28 13:37:18,187 - INFO - Feature matrix shape: (2754, 32)
+2026-03-28 13:37:18,187 - INFO - Target vector length: 2754
+2026-03-28 13:37:18,188 - INFO - Training set shape: (2203, 32)
+2026-03-28 13:37:18,188 - INFO - Test set shape: (551, 32)
+2026-03-28 13:37:18,212 - INFO - Logistic regression model trained successfully
+2026-03-28 13:37:18,222 - INFO - Model accuracy: 0.5681
+2026-03-28 13:37:18,222 - INFO - Classification report generated
+2026-03-28 13:37:18,222 - INFO - Confusion matrix:
+[[  0 238]
+ [  0 313]]
+2026-03-28 13:37:27,681 - INFO - Input dataframe received with shape (2754, 35)
+2026-03-28 13:37:27,683 - INFO - Feature matrix shape: (2754, 32)
+2026-03-28 13:37:27,683 - INFO - Target vector length: 2754
+2026-03-28 13:37:27,683 - INFO - Training set shape: (2203, 32)
+2026-03-28 13:37:27,683 - INFO - Test set shape: (551, 32)
+2026-03-28 13:37:27,703 - INFO - Logistic regression model trained successfully
+2026-03-28 13:37:27,710 - INFO - Model accuracy: 0.5681
+2026-03-28 13:37:27,710 - INFO - Classification report generated
+2026-03-28 13:37:27,710 - INFO - Confusion matrix:
+[[  0 238]
+ [  0 313]]
+2026-03-28 13:38:13,206 - INFO - Input dataframe received with shape (2754, 35)
+2026-03-28 13:38:13,209 - INFO - Feature matrix shape: (2754, 32)
+2026-03-28 13:38:13,209 - INFO - Target vector length: 2754
+2026-03-28 13:38:13,209 - INFO - Training set shape: (2203, 32)
+2026-03-28 13:38:13,209 - INFO - Test set shape: (551, 32)
+2026-03-28 13:38:13,225 - INFO - Logistic regression model trained successfully
+2026-03-28 13:38:13,233 - INFO - Model accuracy: 0.5681
+2026-03-28 13:38:13,233 - INFO - Classification report generated
+2026-03-28 13:38:13,233 - INFO - Confusion matrix:
+[[  0 238]
+ [  0 313]]
+2026-03-28 13:45:39,559 - INFO - All required parquet files were found.
+2026-03-28 13:45:39,562 - INFO - Connected to DuckDB at /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/project.duckdb
+2026-03-28 13:45:39,568 - INFO - Loaded table prices from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/prices.parquet
+2026-03-28 13:45:39,571 - INFO - Loaded table returns from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/returns.parquet
+2026-03-28 13:45:39,578 - INFO - Loaded table technical_indicators from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/technical_indicators.parquet
+2026-03-28 13:45:39,581 - INFO - Loaded table targets from /Users/rameezrauf/Desktop/ds_4320/ds4320_project1/Data/targets.parquet
+2026-03-28 13:45:39,594 - INFO - Join query successful. Output shape: (2754, 35)
+2026-03-28 13:45:39,616 - INFO - Input dataframe received with shape (2754, 35)
+2026-03-28 13:45:39,618 - INFO - Feature matrix shape: (2754, 32)
+2026-03-28 13:45:39,619 - INFO - Target vector length: 2754
+2026-03-28 13:45:39,619 - INFO - Training set shape: (2203, 32)
+2026-03-28 13:45:39,619 - INFO - Test set shape: (551, 32)
+2026-03-28 13:45:39,641 - INFO - Logistic regression model trained successfully
+2026-03-28 13:45:39,653 - INFO - Model accuracy: 0.5681
+2026-03-28 13:45:39,654 - INFO - Classification report generated
+2026-03-28 13:45:39,654 - INFO - Confusion matrix:
+[[  0 238]
+ [  0 313]]

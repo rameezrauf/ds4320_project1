@@ -1,8 +1,9 @@
-# DS 4320 Project 1 - Prediciting the next day movement in SPY 
+# DS 4320 Project 1 - Predicting the next day movement in SPY 
 
 ### Executive Summary
 
 Rameez Rauf
+
 xqd7aq
 
 DOI
@@ -70,9 +71,7 @@ Financial markets generate enormous amounts of publicly available data, making t
 
 ## Data Creation 
 
-REDO once homework is graded
-
-**Data Acquisistion** 
+**Data Acquisition** 
 
 The dataset used in this project was obtained from Yahoo Finance using the yfinance Python library. Historical daily price data for the S&P 500 ETF (SPY) was downloaded programmatically, including variables such as open price, close price, high, low, and trading volume. The data was retrieved for a specified time range to ensure a sufficiently large sample for analysis.
 

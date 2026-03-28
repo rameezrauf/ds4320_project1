@@ -1,0 +1,9 @@
+2026-03-28 13:10:10,750 - INFO - Loading engineered dataset from Data/spy_features.parquet
+2026-03-28 13:10:11,105 - INFO - Ticker column was missing. Added default value 'SPY'.
+2026-03-28 13:10:11,107 - INFO - Input dataset loaded successfully with 2754 rows.
+2026-03-28 13:10:11,109 - INFO - Successfully split dataset into 4 relational tables.
+2026-03-28 13:10:11,113 - INFO - Saved prices table with 2754 rows to Data/prices.parquet
+2026-03-28 13:10:11,116 - INFO - Saved returns table with 2754 rows to Data/returns.parquet
+2026-03-28 13:10:11,123 - INFO - Saved technical_indicators table with 2754 rows to Data/technical_indicators.parquet
+2026-03-28 13:10:11,125 - INFO - Saved targets table with 2754 rows to Data/targets.parquet
+2026-03-28 13:10:11,144 - INFO - build_dataset.py completed successfully.
