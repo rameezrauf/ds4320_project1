@@ -1,20 +1,23 @@
 # DS 4320 Project 1 - Predicting the next day movement in SPY 
 
-### Executive Summary
+**Executive Summary**
+
+This repository presents a complete data pipeline for predicting next-day market direction of the S&P 500 ETF (SPY) using historical financial data. The project includes data acquisition, feature engineering, and transformation into a relational dataset with multiple tables, which are loaded into DuckDB for efficient querying. A machine learning model is then applied to identify patterns in past market behavior and classify whether the market will move up or down. The repository also includes analysis, visualizations, and supporting documentation, demonstrating how data engineering and machine learning can be integrated to generate actionable insights from financial data.
 
 Rameez Rauf
 
 xqd7aq
 
-DOI
+**DOI:** 
+10.5281/zenodo.19322654 
 
 [Link to Press Release](https://github.com/rameezrauf/ds4320_project1/blob/main/Docuements/press_release.md)
 
 [Data](https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD)
 
-Pipeline files link
+[Link to Pipeline files](https://github.com/rameezrauf/ds4320_project1/tree/main/Pipeline)
 
-License 
+[License](https://github.com/rameezrauf/ds4320_project1/tree/main/License) 
 
 ## Problem Definition 
 
@@ -36,7 +39,7 @@ Financial markets generate enormous amounts of publicly available data, making t
 
 **Press release** 
 
-[Link to Press Release](https://github.com/rameezrauf/ds4320_project1/blob/main/Docuements/press_release.md)
+[Machine Learning Model Predicts Next-Day Market Direction Using Historical Trading Patterns](https://github.com/rameezrauf/ds4320_project1/blob/main/Docuements/press_release.md)
 
 ## Domain Exposition
 
