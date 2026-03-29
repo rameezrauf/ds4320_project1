@@ -1,4 +1,4 @@
-# DS 4320 Project 1 - Predicting the next day movement in SPY 
+# DS 4320 Project 1 - Predicting the next day movement in the S&P 500 using SPY 
 
 **Executive Summary**
 
@@ -147,7 +147,10 @@ The dataset contains one entity, SPY Market Record, where each row represents on
 
 | Table Name | Description | Link |
 | --- | --- | --- |
-| spy_features | Engineered daily SPY dataset including raw market data, returns, moving averages, volatility, momentum, and prediction target | https://github.com/rameezrauf/ds4320_project1/blob/main/Data/spy_features.csv |
+| prices | Contains raw market data including open, high, low, close prices and trading volume for SPY | https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD |
+| returns | Contains return-based features such as daily returns and lagged returns used for modeling | https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD |
+| technical_indicators | Contains engineered features including moving averages, volatility, momentum, and volume-based indicators | https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD |
+| targets | Contains the target variable indicating whether the market moves up or down the next day | https://myuva-my.sharepoint.com/:f:/g/personal/xqd7aq_virginia_edu/IgARDf8LGEVVQ4r2StjgYvSoAWUb1tTRrgrdPxopX4r_vnQ?e=tjWGYD |
 
 **Data Dictionary Table**
 
